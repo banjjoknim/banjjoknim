@@ -1,1 +1,1 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banjjoknim&repo=github-readme-stats)](https://github.com/banjjoknim/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=banjjoknim&repo=github-readme-stats&theme=merko&show_icons=true&count_private=true)](https://github.com/banjjoknim/github-readme-stats)
